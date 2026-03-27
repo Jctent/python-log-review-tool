@@ -1,0 +1,6 @@
+2026-03-27 08:00:15 INFO User login successful for jsmith
+2026-03-27 08:05:42 WARNING Failed login attempt for admin
+2026-03-27 08:07:10 ERROR Access denied to restricted folder
+2026-03-27 08:10:33 INFO Scheduled task completed
+2026-03-27 08:12:51 ALERT Unauthorized process execution detected
+2026-03-27 08:14:09 INFO Configuration file updated
